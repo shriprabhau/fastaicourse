@@ -4,7 +4,7 @@ This is a sample repo, a walk through repo for fastai course
 
 This is another paragraph
 
-##More details
+## More details
 
 Here's a list:
 
